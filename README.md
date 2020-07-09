@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a front-end developer, base in Shanghai.
+
+- 🤔 I’m looking for a job.
+- 🌱 I’m currently learning TypeScript.
+
+### Get in Touch
+- [Blog](https://bhaltair.github.io/blog/)
+
 <!--
 **bhaltair/bhaltair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
