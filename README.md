@@ -4,7 +4,6 @@
 
 I'm a front-end developer, base in Shanghai.
 
-- 🤔 I’m looking for a job.
 - 🌱 I’m currently learning TypeScript.
 
 ### Get in Touch
