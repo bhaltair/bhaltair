@@ -1,23 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T01:19:33.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="tb3QXhF0WFzXcWX1mkIT" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T10:10:44.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="G-dH_868GTjhkdeB3dT7" version="14.2.6" type="github">
   <diagram id="IBeV52Dvib6WmM_SwoOW" name="Page-1">
-    <mxGraphModel dx="946" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="190" width="400" height="130" as="geometry" />
+        <mxCell id="l-om4cf0cprNGaaQtVI--30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-3" value="H5 App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="100" width="400" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-4" value="offline package" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="215" width="120" height="60" as="geometry" />
+        <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-4" value="离线包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="258" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-5" value="JS Bridge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="388" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dpd_AiJqUuJBqy7dTWKQ-6" value="Webview" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="518" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-om4cf0cprNGaaQtVI--2" target="l-om4cf0cprNGaaQtVI--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-om4cf0cprNGaaQtVI--2" target="l-om4cf0cprNGaaQtVI--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--2" value="离线包管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--3" value="H5 前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--4" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="489.41" as="sourcePoint" />
+            <mxPoint x="475" y="489.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--6" value="上传离线包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--9" value="获取配置表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--10" value="CDN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--12" value="存储离线包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--14" value="下载离线包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--16" value="离线包管理&lt;br&gt;发布离线包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--18" value="拦截页面请求，加载离线包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="530" as="sourcePoint" />
+            <mxPoint x="320" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--26" value="H5 代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--29" value="Native" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--31" value="H5 容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--32" value="Rest API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--34" value="SOAP API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--35" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--36" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="880" as="sourcePoint" />
+            <mxPoint x="350" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--37" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--38" value="Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="890" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--40" value="middleware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="850" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l-om4cf0cprNGaaQtVI--43" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="880" as="sourcePoint" />
+            <mxPoint x="560" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
