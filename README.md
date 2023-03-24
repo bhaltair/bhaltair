@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaltair&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" /> -->
 
-Hi there! I'm Jason, a software developer with 3 years of experience in React. I specialize in building mobile apps using React Native, and I have a proven track record of creating high-quality applications from scratch, including designing the architecture, developing the features, and testing the code.
+Hi there! I'm Jason, a software developer with 5 years of experience in React. I specialize in building mobile apps using React Native, and I have a proven track record of creating high-quality applications from scratch, including designing the architecture, developing the features, and testing the code.
 
 My expertise in React and React Native allows me to create smooth and performant user interfaces that enhance the user experience. I always strive to write clean, well-documented, and maintainable code that can easily be scaled as the project grows.
 
