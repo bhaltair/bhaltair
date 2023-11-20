@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T07:29:50.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" version="21.6.3" etag="f0HV22eYUzLgv9-mutEv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T07:37:24.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="hxl6QwIk9U02pSpT8pkW" version="21.6.3" type="github">
   <diagram name="Page-1" id="1Gu9rarBIlC9nf9EDqWI">
-    <mxGraphModel>
+    <mxGraphModel dx="897" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-1" value="ProfileHome" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-2" value="ProfileDetail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-3" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;J9LnWNybzbPelvDe&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmluZCUyMiUzQSU3QiU3RCUyQyUyMnNwYWNpbmclMjIlM0ElN0IlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybG9ndDEyYzU2czAxcGMycDg1ZyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVkaXRBdmF0YXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{&amp;quot;ind&amp;quot;:{},&amp;quot;spacing&amp;quot;:{},&amp;quot;uuid&amp;quot;:&amp;quot;logt12c56s01pc2p85g&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;bold&amp;quot;:true,&amp;quot;sz&amp;quot;:12,&amp;quot;szUnit&amp;quot;:&amp;quot;pt&amp;quot;,&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;EditAvatar&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;EditAvatar&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-4" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;J9LnWNybzbPelvDe&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmluZCUyMiUzQSU3QiU3RCUyQyUyMnNwYWNpbmclMjIlM0ElN0IlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybG9ndDEyYzU2czAxcGMycDg1ZyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVkaXRBdmF0YXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{&amp;quot;ind&amp;quot;:{},&amp;quot;spacing&amp;quot;:{},&amp;quot;uuid&amp;quot;:&amp;quot;logt12c56s01pc2p85g&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;bold&amp;quot;:true,&amp;quot;sz&amp;quot;:12,&amp;quot;szUnit&amp;quot;:&amp;quot;pt&amp;quot;,&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;EditAvatar&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;EditNickName&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-5" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;J9LnWNybzbPelvDe&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmluZCUyMiUzQSU3QiU3RCUyQyUyMnNwYWNpbmclMjIlM0ElN0IlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybG9ndDEyYzU2czAxcGMycDg1ZyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVkaXRBdmF0YXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{&amp;quot;ind&amp;quot;:{},&amp;quot;spacing&amp;quot;:{},&amp;quot;uuid&amp;quot;:&amp;quot;logt12c56s01pc2p85g&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;bold&amp;quot;:true,&amp;quot;sz&amp;quot;:12,&amp;quot;szUnit&amp;quot;:&amp;quot;pt&amp;quot;,&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;EditAvatar&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;复用 PreBasicInfoEdit&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="180" as="sourcePoint" />
+            <mxPoint x="280" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2bFwO0pwWGOfpOHGdrno-8" target="2bFwO0pwWGOfpOHGdrno-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-8" value="PreSelectHighlight&lt;br&gt;选择技能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2bFwO0pwWGOfpOHGdrno-9" value="PreEditHighlight&lt;br&gt;编辑技能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
