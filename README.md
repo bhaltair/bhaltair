@@ -11,7 +11,8 @@ Besides my technical skills, I'm also a good communicator and team player. I enj
 If you're looking for an experienced React developer who can help you build amazing mobile apps, please don't hesitate to reach out to me. I'm always eager to take on new challenges and learn from others.
 
 ### Get in Touch
-- [Blog](https://www.yuque.com/u3641)
+- [Blog]([https://www.yuque.com/u364](https://bhaltair.github.io/blog/)1)
+- [Blog]([https://www.yuque.com/u3641](https://bhaltair.github.io/yuque))
 
 <!--
 **bhaltair/bhaltair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
