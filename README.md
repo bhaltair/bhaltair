@@ -12,7 +12,7 @@ If you're looking for an experienced React developer who can help you build amaz
 
 ### Get in Touch
 - [Blog](https://bhaltair.github.io/blog/)
-- [Blog backup with yuque](https://bhaltair.github.io/yuque)
+- [Blog yuque](https://bhaltair.github.io/yuque)
 
 <!--
 **bhaltair/bhaltair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
